@@ -1,4 +1,4 @@
-VisarCARD
+VisarCAD
 -------
 
 ![screenshot](http://www.freecadweb.org/wiki/images/thumb/7/72/Freecad016_screenshot1.jpg/800px-Freecad016_screenshot1.jpg)
@@ -10,7 +10,7 @@ such as architecture or other engineering specialties. It is 100% Open
 Source (LGPL2+ license) and extremely modular, allowing for very 
 advanced extension and customization.
 
-FreeCAD is based on OpenCASCADE, a powerful geometry kernel, features an 
+VisarCAD is based on OpenCASCADE, a powerful geometry kernel, features an 
 Open Inventor-compliant 3D scene representation model provided by the 
 Coin 3D library, and a broad Python API. The interface is built with Qt. 
 FreeCAD runs exactly the same way on Windows, Mac OSX, BSD and Linux 
